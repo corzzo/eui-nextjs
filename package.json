@@ -34,7 +34,7 @@
     "glob": "^7.1.6",
     "imagemin-mozjpeg": "^8.0.0",
     "imagemin-optipng": "^7.1.0",
-    "moment": "^2.26.0",
+    "moment": "^2.29.2",
     "next": "^9.4.2",
     "next-optimized-images": "^2.6.0",
     "react": "^16.13.1",
